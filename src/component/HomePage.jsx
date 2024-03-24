@@ -28,7 +28,7 @@ const HomePage = () => {
   return (
     <>
       {isMobileView && (
-        <div className="text-slate-200 flex mt-2 text-center fixed w-full">
+        <div className="text-slate-200 bg-[#006DB5] flex mt-2 text-center fixed w-full">
           <div
             className={`w-1/2 py-2 bg-${
               forumOpen ? "[#133c68]" : "[#006DB5]"
