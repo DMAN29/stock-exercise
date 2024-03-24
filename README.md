@@ -15,5 +15,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 Here i also provie the Vercel Link:
 https://stock-exercise.vercel.app
